@@ -35,3 +35,6 @@ This project performs customer segmentation using Machine Learning (K-Means Clus
 - Power BI dashboard
 - Dashboard screenshots
 - Project report
+
+## Dashboard Preview
+<img width="1168" height="657" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/9b0a2602-506e-4436-843a-7051835d51fe" />
